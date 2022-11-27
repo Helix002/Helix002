@@ -8,6 +8,11 @@
 <!--  -->
 [![Helix002's GitHub stats](https://github-readme-stats.vercel.app/api?username=Helix002)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<a href="https://github.com/Helix002">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/api?username=Helix002" />
+</a>
+
 <!--
 **Helix002/Helix002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
