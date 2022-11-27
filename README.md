@@ -1,22 +1,20 @@
-### Hi there 👋
+- Platform:
+[![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)]()
+[![Shell](https://img.shields.io/badge/-Shell-4EC422?logo=Shell&logoColor=FF7043)]()
 
-<!--
-**Helix002/Helix002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Tools:
+[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)]()
+[![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)]()
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)]()
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I used :   
+- CICD:
 [![Jenkins](https://img.shields.io/badge/-Jenkins-F6C915?logo=jenkins&logoColor=F16061)]()
+[![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)]()
+
+- Back-end components
+[![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)]()
+
+
 
 
 [<img src="https://metrics.lecoq.io/Helix002?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai">](https://metrics.lecoq.io/)
