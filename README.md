@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/Helix002/Algorithm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Helix002&repo=Algorithm" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Helix002&repo=Algorithm" />
 </a>
