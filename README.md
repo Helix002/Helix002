@@ -1,20 +1,5 @@
 ### Hi there 👋
 
-![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
-
-![Helix002's GitHub stats](https://github-readme-stats.vercel.app/api?username=Helix002&show_icons=true&theme=tokyonight)
-
-<!-- Metrics统计信息 -->
-![Metrics](https://metrics.lecoq.io/Helix002?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
-
-<!-- 语言分布 -->
-![Helix002's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Helix002&layout=compact&hide_border=true&langs_count=10)
-
-<!--  -->
-[![Helix002's GitHub stats](https://github-readme-stats.vercel.app/api?username=Helix002)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 <!--
 **Helix002/Helix002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,3 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+![Helix002's GitHub stats](https://github-readme-stats.vercel.app/api?username=Helix002&show_icons=true&theme=tokyonight)
+
+<!-- Metrics统计信息 -->
+![Metrics](https://metrics.lecoq.io/Helix002?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
+
+<!-- 语言分布 -->
+![Helix002's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Helix002&layout=compact&hide_border=true&langs_count=10)
+
+<!--  -->
+[![Helix002's GitHub stats](https://github-readme-stats.vercel.app/api?username=Helix002)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helix002&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=Helix002&count_private=true&show_icons=true" height=145/></span>](https://github.com/anuraghazra/github-readme-stats)
