@@ -1,5 +1,7 @@
 ### Hi there 👋
-<!-- 访问信息 -->
+
+![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
+
 ![Helix002's GitHub stats](https://github-readme-stats.vercel.app/api?username=Helix002&show_icons=true&theme=tokyonight)
 
 <!-- Metrics统计信息 -->
